@@ -40,6 +40,10 @@ article p {
   margin-top: 20px;
 }
 
+article p:nth-child(5) {
+  margin-top: 5px;
+}
+
 article header p {
   font-style: italic;
   margin-top: 0;
