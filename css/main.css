@@ -12,6 +12,7 @@ html {
   text-size-adjust: 100%;
 
   color: #222;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -47,8 +48,4 @@ blockquote {
 
 .quote {
   color: #999;
-}
-
-body {
-
 }
