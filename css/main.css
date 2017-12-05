@@ -51,8 +51,7 @@ blockquote {
 }
 
 ol {
-  margin-left: 0;
-  padding-left: 0;
+  padding-left: 1em;
 }
 
 body {
@@ -71,7 +70,6 @@ body {
   }
 
   ol {
-    margin-left: 1em;
     padding-left: 1em;
   }
 
@@ -89,8 +87,7 @@ body {
   }
 
   ol {
-    margin-left: 1em;
-    padding-left: 1em;
+    margin-left: 0;
   }
 
 }
