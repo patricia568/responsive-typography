@@ -20,6 +20,7 @@ html {
 
 article {
   max-width: 43em;
+  margin: auto;
 }
 
 article h1 {
@@ -49,6 +50,5 @@ blockquote {
 }
 
 body {
-  text-align: center;
-  width: 100%;
+
 }
