@@ -84,6 +84,10 @@ body {
     margin-left: 0;
   }
 
+  blockquote {
+    margin-left: 50px;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -98,6 +102,9 @@ body {
     padding-left: 0;
   }
 
+  article header {
+    padding-top: 50px;
+  }
 }
 
 @media only screen and (min-width: 90em) {
