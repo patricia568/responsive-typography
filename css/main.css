@@ -70,3 +70,33 @@ body {
   }
 
 }
+
+@media only screen and (min-width: 38em) {
+
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  h1, p {
+    margin: 0 0 1.4rem;
+  }
+
+  ol {
+    margin-left: 15px;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  h1, p {
+    margin: 0 0 1.5rem;
+  }
+
+}
