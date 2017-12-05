@@ -35,7 +35,6 @@ article header {
   padding-bottom: 5px;
 }
 
-
 article p {
   margin-top: 20px;
 }
@@ -69,10 +68,6 @@ article ol {
   padding-left: 1em;
 }
 
-body {
-  margin: 1em;
-}
-
 @media only screen and (min-width: 38em) {
 
   html {
@@ -93,7 +88,7 @@ body {
   }
 
   article p {
-    margin-top: 25px
+    margin-top: 25px;
   }
 
 }
