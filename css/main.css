@@ -40,13 +40,13 @@ article p {
   margin-top: 20px;
 }
 
-article p:nth-child(5) {
-  margin-top: 25px;
-}
-
 article header p {
   font-style: italic;
   margin-top: 0;
+}
+
+article p:nth-child(5) {
+  margin-top: 25px;
 }
 
 article > p:last-child {
@@ -99,7 +99,7 @@ body {
   }
 
   article p {
-    margin-bottom: 20px;
+    padding-top: 50px;
   }
 
 }
