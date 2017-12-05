@@ -69,7 +69,9 @@ article ol {
 }
 
 body {
-  margin: 1em;
+  margin: 0;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 @media only screen and (min-width: 38em) {
