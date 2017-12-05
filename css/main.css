@@ -51,7 +51,7 @@ blockquote {
 }
 
 ol {
-  padding-left: 0;
+  margin-left: 1em;
 }
 
 body {
@@ -69,6 +69,10 @@ body {
     margin: 0 0 1.3rem;
   }
 
+  ol {
+    margin-left: 1em;
+  }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -83,7 +87,7 @@ body {
   }
 
   ol {
-    margin-left: 15px;
+    margin-left: 1em;
   }
 
 }
@@ -97,6 +101,10 @@ body {
 
   h1, p {
     margin: 0 0 1.5rem;
+  }
+
+  ol {
+    margin: 0;
   }
 
 }
