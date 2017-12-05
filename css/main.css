@@ -98,10 +98,6 @@ body {
     padding-left: 0;
   }
 
-  article p {
-    padding-top: 50px;
-  }
-
 }
 
 @media only screen and (min-width: 90em) {
