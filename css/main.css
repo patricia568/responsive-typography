@@ -80,10 +80,6 @@ body {
     line-height: 1.4;
   }
 
-  h1, article p {
-    margin: 0 0 1.4rem;
-  }
-
   article ol {
     margin-left: 0;
   }
@@ -97,13 +93,13 @@ body {
     line-height: 1.5;
   }
 
-  h1, article p {
-    margin: 0 0 1.5rem;
-  }
-
   article ol {
     margin-left: 0;
     padding-left: 0;
+  }
+
+  article p {
+    margin-bottom: 20px;
   }
 
 }
