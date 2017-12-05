@@ -13,6 +13,7 @@ html {
 
   color: #222;
   line-height: 1.5;
+  font-family: "Crimson Text";
 }
 
 *, *::before, *::after {
@@ -50,7 +51,7 @@ blockquote {
   color: #999;
 }
 
-ol {
+article ol {
   padding-left: 1em;
 }
 
@@ -69,7 +70,7 @@ body {
     margin: 0 0 1.4rem;
   }
 
-  ol {
+  article ol {
     margin-left: 0;
   }
 
@@ -86,7 +87,7 @@ body {
     margin: 0 0 1.5rem;
   }
 
-  ol {
+  article ol {
     margin-left: 0;
     padding-left: 0;
   }
@@ -99,7 +100,7 @@ body {
     font-size: 130%;
   }
 
-  ol {
+  article ol {
     margin-left: 0;
     padding-left: 0;
   }
