@@ -41,7 +41,7 @@ article p {
 }
 
 article p:nth-child(5) {
-  margin-top: 5px;
+  margin-top: 0;
 }
 
 article header p {
@@ -58,6 +58,7 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
+  margin-left: 0;
 }
 
 .quote {
