@@ -35,6 +35,11 @@ article header {
   padding-bottom: 5px;
 }
 
+
+article p {
+  margin-top: 10px;
+}
+
 article header p {
   font-style: italic;
   margin-top: 0;
@@ -57,10 +62,6 @@ blockquote {
 
 article ol {
   padding-left: 1em;
-}
-
-article p {
-  margin-top: 10px;
 }
 
 body {
